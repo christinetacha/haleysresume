@@ -1,0 +1,21 @@
+.education {
+  font-weight: bold;
+  font-align: center;
+  font-size: 30px;
+  color: pink;
+}
+
+.skills {
+  font-style: italic;
+  font-align: right;
+  font-family: cursive;
+}
+
+.food {
+  font-size: 50px;
+}
+
+.very {
+  font-family: monospace;
+  font-size: 40px;
+}
